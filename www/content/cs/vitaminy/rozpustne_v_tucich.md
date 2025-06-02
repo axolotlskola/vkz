@@ -3,7 +3,6 @@ title: Vitámíny rozpustné v tucích
 navigation: true
 ---
 
-# Vitamíny rozpustné v tucích
   - Vitamín A (retinol, beta-karoten)
       - Funkce: zrak (tvorba rhodopsinu), růst a diferenciace buněk, imunita, antioxidant.
       - Zdroje: játra, rybí tuk, vejce, mléko, mrkev, špenát, batáty.

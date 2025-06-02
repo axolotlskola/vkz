@@ -1,9 +1,8 @@
 ---
-title: Zdraví
+title: Vitamíny
 navigation: true
 ---
 
-# Vitamíny
   - Vitamíny jsou organické sloučeniny nezbytné pro život, které tělo potřebuje v malém množství, ale nedokáže si je většinou samo vytvořit, takže je musíme přijímat potravou nebo doplňky.
   - Dělíme je na:
     - Vitamíny rozpustné v tucích: A, D, E, K

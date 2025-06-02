@@ -1,0 +1,39 @@
+---
+title: Zdraví
+navigation: true
+---
+
+  - Vitamíny rozpustné ve vodě vitamín b2(riboflavin) Funkce: energetický metabolismus, zdraví kůže a očí.
+      - Zdroje: mléko, vejce, maso, zelenina.
+      - DDD: 1,1–1,3 mg.
+      - Deficit: záněty koutků úst, dermatitida, poruchy zraku.
+  - Vitamín B1 (thiamin)
+      - Funkce: energetický metabolismus, nervová funkce.
+      - Zdroje: celozrnné obiloviny, luštěniny, vepřové maso.
+      - DDD: 1,1–1,2 mg.
+  - Vitamín B2 (riboflavin)
+      - Funkce: energetický metabolismus, zdraví kůže a očí.
+      - Zdroje: mléko, vejce, maso, zelenina.
+      - DDD: 1,1–1,3 mg.
+      - Deficit: záněty koutků úst, dermatitida, poruchy zraku.
+  - Vitamín B2 (riboflavin)
+      - Funkce: energetický metabolismus, zdraví kůže a očí.
+      - Zdroje: mléko, vejce, maso, zelenina.
+      - DDD: 1,1–1,3 mg.
+      - Deficit: záněty koutků úst, dermatitida, poruchy zraku.
+  - Vitamín B3 (niacin, nikotinamid)
+      - Funkce: metabolismus sacharidů, tuků, bílkovin (součást NAD/NADP).
+      - Zdroje: maso, ryby, celozrnné výrobky, syntéza z tryptofanu.
+      - DDD: 14–16 mg.
+      - Deficit: pelagra – 3D: dermatitida, demence, průjem.
+      - Toxicita: při vysokých dávkách (doplněk) – návaly horka, jaterní toxicita.
+  - Vitamín B5 (kyselina pantotenová)
+      - Funkce: součást koenzymu A, syntéza mastných kyselin.
+      - Zdroje: téměř ve všech potravinách.
+      - DDD: 5 mg.
+      - Deficit: vzácný – únava, podrážděnost, brnění končetin.
+  - Vitamín C (kyselina askorbová)
+      - Funkce: antioxidant, tvorba kolagenu, vstřebávání železa, imunita.
+      - Zdroje: citrusy, paprika, brokolice, jahody.
+      - DDD: 75–90 mg (vyšší potřeba u kuřáků).
+      - Deficit: kurděje – krvácení z dásní, únava, poruchy hojení.

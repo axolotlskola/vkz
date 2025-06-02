@@ -2,8 +2,6 @@
 title: Zdraví
 navigation: true
 ---
-
-# ZDRAVÍ
   - stav fyzické, psychické a sociální pohody
 
 
