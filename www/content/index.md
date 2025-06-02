@@ -8,8 +8,8 @@ navigation: false
 announcement:
   title: 'v1.0 release'
   icon: '🎉'
-  to: /blog/
+  to: /cs/zdravi/
 actions:
   - name: Začít
-    to: /blog/
+    to: /cs/zdravi/
 ---
